@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:h8_fli_nfc_starter/view/nfc_poll_view.dart';
 
 /// MARK: Setup Platform (Android).
-// TODO: 1. Update minSDK inside android/build.gradle.kts to 28.
+// TODO: 1. Update minSDK inside android/app/build.gradle.kts to 28.
 
 /// MARK: Setup Platform (iOS).
 // TODO: 1. Activate developer mode on your iOS real device.
