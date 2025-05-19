@@ -11,13 +11,12 @@ class GeoView extends StatefulWidget {
 }
 
 class _GeoViewState extends State<GeoView> {
-  // TODO: 1. Declare the Completer<GoogleMapController>.
-  // TODO: 2. Declate the CameraPosition for the initial location.
+  // TODO: 1. Declate the CameraPosition for the initial location.
+  // TODO: 2. Declare the GoogleMapController.
 
   @override
   void initState() {
-    // TODO: 3. Initialize the Completer<GoogleMapController>.
-    // TODO: 4. Initialize the CameraPosition for the initial location.
+    // TODO: 3. Initialize the CameraPosition for the initial location.
     /// Provide the following paremeters:
     /// - target: initial location.
     /// - zoom: initial zoom level.
