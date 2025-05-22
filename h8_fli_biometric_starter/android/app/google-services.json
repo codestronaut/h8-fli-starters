@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1011995366836",
+    "firebase_url": "https://biometricauth-5531f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "biometricauth-5531f",
+    "storage_bucket": "biometricauth-5531f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011995366836:android:f009026873c90615174ee1",
+        "android_client_info": {
+          "package_name": "com.example.h8_fli_biometric_starter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVehEP3C2r5Ze50BGzTezrq1Z8SFdPQVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
